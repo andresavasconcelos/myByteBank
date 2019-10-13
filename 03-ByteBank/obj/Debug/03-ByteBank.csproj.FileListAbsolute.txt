@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Users\andre\source\repos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Users\andre\source\repos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Users\andre\source\repos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Users\andre\source\repos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb
