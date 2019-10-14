@@ -1,0 +1,5 @@
+C:\Users\andre\source\repos\ByteBank\6-ByteBank\bin\Debug\6-ByteBank.exe.config
+C:\Users\andre\source\repos\ByteBank\6-ByteBank\bin\Debug\6-ByteBank.exe
+C:\Users\andre\source\repos\ByteBank\6-ByteBank\bin\Debug\6-ByteBank.pdb
+C:\Users\andre\source\repos\ByteBank\6-ByteBank\obj\Debug\6-ByteBank.exe
+C:\Users\andre\source\repos\ByteBank\6-ByteBank\obj\Debug\6-ByteBank.pdb
